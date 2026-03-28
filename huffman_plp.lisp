@@ -1,6 +1,8 @@
-; EP1 - Huffman
-; Nome: Fabyani Tiva Yan - RA: 10431835
-; Nome: Rafael 
+; Paradigmas de Linguagem de Programacao
+; EP1 - Codificacao de Huffman
+
+; Fabyani Tiva Yan - RA: 10431835
+; Rafael Araujo Cabral Moreira - RA 10441919
 
 ; estrutura basica do no da arvore
 (defstruct no
@@ -9,7 +11,7 @@
   esq
   dir)
 
-; verifica se é letra ou numero
+; verifica se e letra ou numero
 (defun letra-ou-digito-p (c)
   (or (alpha-char-p c)
       (digit-char-p c)))
