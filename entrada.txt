@@ -1,0 +1,2 @@
+Ola mundo 123!
+Teste de Huffman.
