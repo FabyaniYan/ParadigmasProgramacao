@@ -4,6 +4,9 @@
 ; Fabyani Tiva Yan - RA: 10431835
 ; Rafael Araujo Cabral Moreira - RA 10441919
 
+; Link do repositório no Github usado para desenvolvimento:
+; https://github.com/FabyaniYan/ParadigmasProgramacao
+
 ; estrutura basica do no da arvore
 (defstruct no
   simb
